@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6766e61e86caf4ea0964ff6d0a559ae4
+  - enabled: 1
+    path: Assets/Scenes/RockHipHopPad.unity
+    guid: 6de6b7851a74d4ede81f3e3ec6392a81
+  - enabled: 1
+    path: Assets/Scenes/AutumnLeaves.unity
+    guid: 813a2ebf9884d417ba4dfac282b5ca7c
+  - enabled: 1
+    path: Assets/Scenes/ComeCloseToMe.unity
+    guid: 4f0a2326d3e824d9d9f583a84b7e8e31
+  - enabled: 1
+    path: Assets/Scenes/NorwegianBattlegrounds.unity
+    guid: 63dd7a2433e4d4ede9864a770eb61d24
+  - enabled: 1
+    path: Assets/Scenes/RetroGamer.unity
+    guid: 4ca92168075b746e8beea40f06e6cf44
+  - enabled: 1
+    path: Assets/Scenes/TechnoPad.unity
+    guid: 1bc7a5db08586472ca9466ba6ede36b7
+  - enabled: 1
+    path: Assets/Scenes/Horror.unity
+    guid: bf4c3881e7b074aa9a391cda7c80d0c8
+  - enabled: 1
+    path: Assets/Scenes/HousePad.unity
+    guid: df221da93e8f541429deed72ed55e092
+  - enabled: 1
+    path: Assets/Scenes/RockPad.unity
+    guid: ed7a2f7982f1b459a902804cbcebfe5c
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: c1164ed5b3d634c0fbdd9d03297a02af, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 3a4f609d6748d4075bf258a11aec5aac, type: 2}
